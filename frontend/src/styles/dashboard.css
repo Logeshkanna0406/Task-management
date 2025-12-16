@@ -1,0 +1,11 @@
+.dashboard {
+  width: 80%;
+  margin: 30px auto;
+}
+
+.task-box {
+  background: white;
+  padding: 15px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
